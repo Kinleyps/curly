@@ -1,0 +1,5 @@
+Darkest Tone 363636
+Brown Contrast 443B3E
+Dark Tone 5B585A
+Mid Tone 978F92
+Lighest Tone C1BBBD
